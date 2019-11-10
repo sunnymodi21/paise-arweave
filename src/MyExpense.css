@@ -1,0 +1,6 @@
+.list-item {
+    padding: 7px 15px 7px 15px;
+}
+.list-item:hover {
+    opacity: 0.5;
+  }
