@@ -35,3 +35,7 @@ npm run build
 ```
 
 
+ScreenShots:
+![Landing Page](https://raw.githubusercontent.com/sunnymodi21/paise-arweave/master/screnshots/landing.png)
+![Dashboard Page](https://raw.githubusercontent.com/sunnymodi21/paise-arweave/master/screnshots/dashboard.png)
+![Add Expense Page](https://raw.githubusercontent.com/sunnymodi21/paise-arweave/master/screnshots/add.png)
