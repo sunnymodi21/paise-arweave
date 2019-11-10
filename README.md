@@ -2,7 +2,7 @@
 
 A decentralized personal expense manager between you and your friends
 
-Paise keeps track of your expenses, allows you to manage them and provides insights into your daily spends. The added advantage of this feature is that you do not have to share your data with anyone.
+Paise keeps track of your expenses, allows you to manage them and provides insights into your daily spends. All the data is encrypted using the private key and only you have access to the data.
 
 ### Setting up the project
 
