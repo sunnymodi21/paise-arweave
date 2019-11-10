@@ -4,7 +4,8 @@
 
 Steps to use:
 1. Login using ARWeave Private Key
-2. Add Expenses using
+2. Add Expenses
+3. Get monthly Insights
 
 A decentralized personal expense manager between you and your friends
 
